@@ -4,6 +4,12 @@
     font-family: 'Poppins' , sans-serif;
     box-sizing: border-box;
 }
+body {
+    color: #f0f4fa;
+    background-color: #ebf4ff;
+    min-height: 100vh; /* Ensure the body takes up the full height of the viewport */
+    background-size: cover; /* Ensures the background covers the entire body */
+}
 .card{
     width: 90%;
     max-width: 470px;
